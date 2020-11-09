@@ -1,7 +1,7 @@
 {
   "name": "ESP-DASH",
   "keywords": "EspDash, esp8266, esp32, ui, dashboard, user, ux, interface, gui, iot, arduino, Wifi, server",
-  "description": "A Blazing Fast library to create realtime Dashboards for ESP8266's and ESP32's.",
+  "description": "A blazing fast library to create realtime dashboards for ESP8266's and ESP32's.",
   "repository":
   {
     "type": "git",
@@ -15,7 +15,7 @@
       "maintainer": true
     }
   ],
-  "version": "2.2.5",
+  "version": "3.0.2",
   "frameworks": "arduino",
   "platforms": "espressif",
   "dependencies":
@@ -26,7 +26,7 @@
     },
     {
       "name": "ArduinoJson",
-      "version": "6.15.0"
+      "version": "6.17.0"
     }
   ]
 }
